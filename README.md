@@ -6,8 +6,8 @@
 <a href="https://www.linkedin.com/in/yasin-rezvani-43338b190/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-blue?logo=linkedin&logoColor=white"></a>
 
 ![](https://komarev.com/ghpvc/?username=YasinRezvani&color=blueviolet)
-
-<p style="left:100px">
-  <img height="240em" src="https://github-readme-stats.vercel.app/api?username=YasinRezvani&show_icons=true&theme=chartreuse-dark" />
+  
+  <p style="left:100px">
+  <img height="250em" src="https://github-readme-stats.vercel.app/api?username=YasinRezvani&show_icons=true&theme=chartreuse-dark" />
   
 </p>
