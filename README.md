@@ -8,6 +8,10 @@
 
 
 
-  <p style="left:100px">
-  <img height="250em" src="https://github-readme-stats.vercel.app/api?username=YasinRezvani&show_icons=true&theme=chartreuse-dark" /> 
+<p style="" align="center">
+   <img  align="center" height="200em" alt="My GitHub top languages stats" src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=YasinRezvani&layout=compact&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true" />
+
+  <img  align="center" height="260em" alt="My GitHub stats" src="https://github-readme-stats-steel-omega.vercel.app/api?username=YasinRezvani&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=1800&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true" />  
+
 </p>
+ 
