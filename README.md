@@ -3,7 +3,7 @@
 <h3 align="center">
 <a href="https://t.me/yasin2050" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/-Telegram-0088cc?style=Flat&logo=Telegram&logoColor=white"?logoWidth=400></a>
 <a href="mailto:yasinrezvani2050@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"></a>  
-<a href="https://www.linkedin.com/in/yasin-rezvani/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-blue?logo=linkedin&logoColor=white"></a>  
+<a href="https://www.linkedin.com/in/yasin-rezvani-43338b190" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-blue?logo=linkedin&logoColor=white"></a>  
 <a href="https://twitter.com/_yasin_2050" target="_blank"><img alt="Twitter" src="https://img.shields.io/twitter/url?label=Twitter&url=https%3A%2F%2Ftwitter.com%2F_yasin_2050"></a>
 
 
