@@ -15,8 +15,9 @@
 <a href="https://www.linkedin.com/in/yasin-rezvani-43338b190" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-blue?logo=linkedin&logoColor=white"></a>  
 <a href="https://twitter.com/_yasin_2050" target="_blank"><img alt="Twitter" src="https://img.shields.io/twitter/url?label=Twitter&url=https%3A%2F%2Ftwitter.com%2F_yasin_2050"></a>
 
+<br>
 
-  <a href="https://github.com/yasinrezvani"><img src="https://readme-typing-svg.herokuapp.com/?lines=😉%20Thanks%20For%20Visitng!;👇⭐Take%20A%20Look%20at%20my%20Repositories%20⭐👇;Good%20Luck%20😉;&font=Pacifico&center=true&width=650&height=100&color=58a6ff&vCenter=true&size=25"></a>
+  <a href="https://github.com/yasinrezvani"><img src="https://readme-typing-svg.herokuapp.com/?lines=👇⭐⭐⭐Take%20A%20Look%20at%20my%20Repositories%20⭐⭐⭐👇;⭐⭐⭐%20Thanks%20For%20Visitng%20and%20supporting,%20You%20are%20the%20best%20%20⭐⭐⭐;😉%20May%20your%20day%20be%20filled%20with%20joy%20and%20success,%20Take%20care,%20Good%20Luck%20😉;&font=Pacifico&center=true&width=1000&height=70&color=58a6ff&vCenter=true&size=25"></a>
 
 <a href="https://github.com/yasinrezvani">
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/>
