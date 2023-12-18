@@ -22,11 +22,11 @@
 <br><br>
 
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yasinrezvani&theme=algolia" width="35%" align="left"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yasinrezvani&show_icons=true&line_height=30&theme=algolia" width="35%" align="left" alt="Yasin Rezvani's github stats"/>
 
 <a href="https://github.com/yasinrezvani">
 
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=yasinrezvani&show_icons=true&line_height=30&rank_icon=github&show=discussions_answered&theme=algolia" width="55%" alt="Yasin Rezvani's github stats"/>
+   <img align="right" src="https://github-readme-stats.vercel.app/api?username=yasinrezvani&show_icons=true&line_height=30&rank_icon=github&show=discussions_answered&theme=algolia" width="55%" alt="Yasin Rezvani's github stats"/>
 
 </a>
   <a href="https://github.com/yasinrezvani">
