@@ -6,7 +6,7 @@
     </a> <a href="https://github.com/yasinrezvani">
   <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="44" height="44" align="right" />
    </a>  
-  <a href="https://github.com/yasinrezvani"><img src="https://readme-typing-svg.herokuapp.com/?lines=👇⭐⭐⭐Take%20A%20Look%20at%20my%20Repositories%20⭐⭐⭐👇;⭐⭐⭐%20Thanks%20For%20Visitng%20and%20supporting,%20You%20are%20the%20best%20%20⭐⭐⭐;😉%20May%20your%20day%20be%20filled%20with%20joy%20and%20success,%20Take%20care,%20Good%20Luck%20😉;&font=Pacifico&center=true&width=850&color=58a6ff&vCenter=true&size=28"></a>
+  <a href="https://github.com/yasinrezvani"><img src="https://readme-typing-svg.herokuapp.com/?lines=👇⭐⭐⭐Take%20A%20Look%20at%20my%20Repositories%20⭐⭐⭐👇;⭐⭐⭐%20Thanks%20For%20Visitng%20and%20supporting,%20You%20are%20the%20best%20%20⭐⭐⭐;😉%20May%20your%20day%20be%20filled%20with%20joy%20and%20success,%20Take%20care,%20Good%20Luck%20😉;&font=Pacifico&center=true&width=850&color=58a6ff&vCenter=true&size=26"></a>
 </h3>
 
 
