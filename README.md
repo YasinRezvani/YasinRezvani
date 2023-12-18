@@ -22,11 +22,11 @@
 <br><br>
 
 
-   <img  align="center" height="200em" alt="My GitHub top languages stats" src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=YasinRezvani&layout=compact&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yasinrezvani&theme=algolia" width="35%" align="left"/>
 
 <a href="https://github.com/yasinrezvani">
 
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=yasinrezvani&show_icons=true&line_height=30&rank_icon=github&show=discussions_answered&theme=algolia" alt="Yasin's github stats"/>
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=yasinrezvani&show_icons=true&line_height=30&rank_icon=github&show=discussions_answered&theme=algolia" width="55%" alt="Yasin Rezvani's github stats"/>
 
 </a>
   <a href="https://github.com/yasinrezvani">
