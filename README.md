@@ -15,12 +15,15 @@
 <a href="https://www.linkedin.com/in/yasin-rezvani-43338b190" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-blue?logo=linkedin&logoColor=white"></a>  
 <a href="https://twitter.com/_yasin_2050" target="_blank"><img alt="Twitter" src="https://img.shields.io/twitter/url?label=Twitter&url=https%3A%2F%2Ftwitter.com%2F_yasin_2050"></a>
 
+
+  <a href="https://github.com/yasinrezvani"><img src="https://readme-typing-svg.herokuapp.com/?lines=😉%20Thanks%20For%20Visitng!;👇⭐Take%20A%20Look%20at%20my%20Repositories%20⭐👇;Good%20Luck%20😉;&font=Pacifico&center=true&width=650&height=100&color=58a6ff&vCenter=true&size=25"></a>
+
 <a href="https://github.com/yasinrezvani">
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/>
 </a>
 <br><br>
 
-<p style="" align="center">
+
    <img  align="center" height="200em" alt="My GitHub top languages stats" src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=YasinRezvani&layout=compact&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true" />
 
 <a href="https://github.com/yasinrezvani">
@@ -28,42 +31,9 @@
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=yasinrezvani&show_icons=true&line_height=30&rank_icon=github&show=discussions_answered&theme=algolia" alt="Yasin's github stats"/>
 
 </a>
-
- <!--More Stats-->
   <a href="https://github.com/yasinrezvani">
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/>
 </a>
- <br>
-</p >
- <p align="center">
-  <a href="https://github.com/walidbosso"><img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks%20For%20Visitng!;Take%20A%20Look%20at%20my%20Repositories%20⭐👇;Follow..;Your%20Dreams%20😉;&font=Pacifico&center=true&width=650&height=100&color=58a6ff&vCenter=true&size=18"></a>
-</p>
-<details align="center">
- 
-  <summary>📈 More Stats</summary>
-  <br>
-
- 
-
-<div align="center">
- <a href="https://github.com/yasinrezvani"> 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yasinrezvani&theme=algolia" width="100%" /> </br></br>
-  
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yasinrezvani&theme=algolia" width="31%" align="left"/>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yasinrezvani&theme=algolia" width="31%" align="right"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yasinrezvani&theme=algolia" width="31%" align="center"/>  
-</br></br>
- </a>
-  
- [![Yasin's github streak](https://github-readme-streak-stats.herokuapp.com/?user=yasinrezvani&theme=algolia&card_width=1000)](https://github.com/yasinrezvani) </br></br>
-[![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=yasinrezvani&theme=react-dark&hide_border=true&area=true&bg_color=01102d&color=6eb9f2&line=41c350&point=ffffff)](https://github.com/yasinrezvani) </br>
-[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=yasinrezvani&column=10&margin-w=15&margin-h=15&no-frame=true&theme=algolia)](https://github.com/yasinrezvani) 
-
-</div>
 
 
 
-</p>
-
-
- 
