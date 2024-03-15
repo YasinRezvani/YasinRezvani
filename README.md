@@ -1,4 +1,4 @@
-<h1 style = "position:relative; left:1180px;"align="center">Hi :wave:, I'm 💎🧠🇮🇷 Yasin Rezvani 🇺🇸🧠💎 <img class="emoji" alt="standing_person" height="40" width="40" src="https://github.githubassets.com/images/icons/emoji/unicode/1f9cd.png">🌉 🌃 🌠 🌇 🌄 🌌 😜 ✌️ 
+<h1 style = "position:relative; left:1180px;"align="center">Hi :wave:, I'm 💎🧠🇮🇷 Yasin Rezvani 🇺🇸🧠💎<img class="emoji" alt="standing_person" height="40" width="40" src="https://github.githubassets.com/images/icons/emoji/unicode/1f9cd.png">🌉 🌃 🌠 🌇 🌄 🌌 😜 ✌️ 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=75&section=footer"/></h1>
 
 
