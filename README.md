@@ -1,11 +1,18 @@
-<h1 style = "position:relative; left:1180px;"align="center">Hi :wave:, I'm 💎🧠🇮🇷 Yasin Rezvani 🇺🇸🧠💎<img class="emoji" alt="standing_person" height="40" width="40" src="https://github.githubassets.com/images/icons/emoji/unicode/1f9cd.png">🌉 🌃 🌠 🌇 🌄 🌌 😜 ✌️ 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=75&section=footer"/></h1>
+<h1 style = "position:relative; left:1180px;"align="center">Hi :wave:, I'm 💎🧠🇮🇷 Yasin Rezvani 🇺🇸🧠💎<img class="emoji" alt="standing_person" height="40" width="40" src="https://github.githubassets.com/images/icons/emoji/unicode/1f9cd.png">🌉 🌃 🌠 🌇 🌄 🌌 😜 ✌️ </h1>
+
+ ```
+ My interests include computer vision, neural networks, machine learning, deep learning, and the human brain.
+Being a fan of money and social standing, I'm also interested in finding a way to add more value to Artificial Intelligence.
+```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=75&section=footer"/>
 
 
 <h3 align="center">
+ 
  <a href="https://github.com/yasinrezvani">
 <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="44" height=44" align="left" /> 
-    </a> <a href="https://github.com/yasinrezvani">
+    </a> 
+ <a href="https://github.com/yasinrezvani">
   <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="44" height="44" align="right" />
    </a>  
  
