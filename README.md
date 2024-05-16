@@ -4,7 +4,7 @@
  My interests include computer vision, neural networks, machine learning, deep learning, and the human brain.
 Being a fan of money and social standing, I'm also interested in finding a way to add more value to AI.
 ```
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=70&section=footer"/>
 
 
 <h3 align="center">
