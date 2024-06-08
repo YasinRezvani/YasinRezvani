@@ -1,7 +1,8 @@
 <h1 style = "position:relative; left:1180px;"align="center">Hi :wave:, I'm 💎🧠🇮🇷 Yasin Rezvani 🇺🇸🧠💎<img class="emoji" alt="standing_person" height="40" width="40" src="https://github.githubassets.com/images/icons/emoji/unicode/1f9cd.png">🌉 🌃 🌠 🌇 🌄 🌌 😜 ✌️ </h1>
 
  ```
-My interests include computer vision, neural networks, machine learning, deep learning, and the human brain. Being a fan of money and social standing, I'm also interested in finding a way to add more value to artificial intelligence.
+My interests include computer vision, neural networks, machine learning, deep learning, and the human brain.
+Being a fan of money and social standing, I'm also interested in finding a way to add more value to artificial intelligence.
 ```
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=70&section=footer"/>
 
