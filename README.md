@@ -4,14 +4,18 @@
 My interests include computer vision, neural networks, machine learning, deep learning, and the human brain.
 Being a fan of money and social standing, I'm also interested in finding a way to add more value to artificial intelligence.
 ```
+![brain image segmentation](https://github.com/YasinRezvani/YasinRezvani/assets/77124662/8d786ef5-89f6-46dc-9f87-269a4e44a160)
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=70&section=footer"/>
 
 
 <h3 align="center">
  
  <a href="https://github.com/yasinrezvani">
-<img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="44" height=44" align="left" /> 
+<img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="44" height="44" align="left" /> 
     </a> 
+    
+
  <a href="https://github.com/yasinrezvani">
   <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="44" height="44" align="right" />
    </a>  
