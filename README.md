@@ -1,5 +1,3 @@
-<h1 style = "position:relative; left:1180px;"align="center">Hi :wave:, I'm 💎🧠🇮🇷 Yasin Rezvani 🇺🇸🧠💎<img class="emoji" alt="standing_person" height="40" width="40" src="https://github.githubassets.com/images/icons/emoji/unicode/1f9cd.png">🌉 🌃 🌠 🌇 😜 ✌️ </h1>
-
 <a href="https://github.com/yasinrezvani">
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/>
 </a>
@@ -15,7 +13,7 @@
   <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="44" height="44" align="right" />
    </a>  
  
-  <a href="https://github.com/yasinrezvani"><img src="https://readme-typing-svg.herokuapp.com/?lines=👇⭐⭐⭐Take%20a%20look%20at%20my%20repositories%20⭐⭐⭐👇;⭐⭐⭐%20Thanks%20for%20visitng%20and%20supporting,%20you%20are%20the%20best%20%20⭐⭐⭐;😉%20May%20your%20day%20be%20filled%20with%20joy%20and%20success,%20take%20care,%20good%20luck%20😉;&font=Pacifico&center=true&width=700&color=58a6ff&vCenter=true&size=23">
+  <a href="https://github.com/yasinrezvani"><img src="https://readme-typing-svg.herokuapp.com/?lines=👇⭐⭐⭐Take%20a%20look%20at%20my%20repositories%20⭐⭐⭐👇;⭐⭐⭐%20Thanks%20for%20visitng%20and%20supporting,%20you%20are%20the%20best%20%20⭐⭐⭐;😉%20May%20your%20day%20be%20filled%20with%20joy%20and%20success,%20take%20care,%20good%20luck%20😉;&font=Lobster&center=true&width=700&color=58a6ff&vCenter=true&size=23">
   
    
   </a>
