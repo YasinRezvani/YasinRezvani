@@ -22,7 +22,7 @@
 My interests include computer vision, neural networks, machine learning, deep learning, and the human brain.
 Being a fan of money and social standing, I'm also interested in finding a way to add more value to artificial intelligence.
 ```
-![brain image segmentation](https://github.com/YasinRezvani/YasinRezvani/assets/77124662/8d786ef5-89f6-46dc-9f87-269a4e44a160)
+![brain image segmentation_Yasin Rezvani research interests](https://github.com/YasinRezvani/YasinRezvani/assets/77124662/8d786ef5-89f6-46dc-9f87-269a4e44a160)
 
 
 
@@ -35,10 +35,14 @@ Being a fan of money and social standing, I'm also interested in finding a way t
 
 <a href="https://github.com/yasinrezvani">
 
-   <img  src="https://github-readme-stats.vercel.app/api?username=yasinrezvani&show_icons=true&line_height=30&rank_icon=github&show=discussions_answered&theme=algolia" width="55%" alt="Yasin Rezvani's github stats"/>
+   <img  src="https://github-readme-stats.vercel.app/api?username=yasinrezvani&show_icons=true&line_height=30&rank_icon=github&show=prs_merged,prs_merged_percentage&theme=algolia" width="55%" alt="Yasin Rezvani's github stats"/>
 </a>
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yasinrezvani&show_icons=true&line_height=30&theme=algolia" width="35%"  alt="Yasin Rezvani's github stats"/>
+<a href="https://github.com/yasinrezvani"> 
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yasinrezvani&show_icons=true&line_height=30&theme=algolia" width="35%"  alt="Yasin Rezvani's github stats most commit programming language"/>
+
+</a>
 
 
   <a href="https://github.com/yasinrezvani">
