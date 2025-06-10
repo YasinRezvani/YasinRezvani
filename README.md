@@ -1,5 +1,5 @@
 <a href="https://github.com/yasinrezvani">
-<img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/>
+  <img src="https://github.com/user-attachments/assets/4d72bd9d-cfe1-4fb1-9ac4-b8f965a1aaf2" width="100%" height="6px"/>
 </a>
 
 <h3 align="center">
@@ -12,8 +12,9 @@
 </h3>
 
 <a href="https://github.com/yasinrezvani">
-<img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/>
+  <img src="https://github.com/user-attachments/assets/4d72bd9d-cfe1-4fb1-9ac4-b8f965a1aaf2" width="100%" height="6px"/>
 </a>
+
 <br>
 <br>
 <div align="center">
@@ -39,12 +40,12 @@
 
 
 
-
 <h3 align="center">
 
 <a href="https://github.com/yasinrezvani">
-<img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/>
+  <img src="https://github.com/user-attachments/assets/4d72bd9d-cfe1-4fb1-9ac4-b8f965a1aaf2" width="100%" height="6px"/>
 </a>
+
 <br><br>
 
 <a href="https://github.com/yasinrezvani">
@@ -57,9 +58,10 @@
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yasinrezvani&show_icons=true&line_height=30&theme=algolia" width="35%"  alt="Yasin Rezvani's github stats most commit programming language"/>
 
 </a>
-  <a href="https://github.com/yasinrezvani">
-<img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/>
+<a href="https://github.com/yasinrezvani">
+  <img src="https://github.com/user-attachments/assets/4d72bd9d-cfe1-4fb1-9ac4-b8f965a1aaf2" width="100%" height="6px"/>
 </a>
+
 <h3/>
 
 
