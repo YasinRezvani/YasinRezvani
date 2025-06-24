@@ -24,20 +24,6 @@
 
 </div>
 
-![brain image segmentation_Yasin Rezvani research interests](https://github.com/YasinRezvani/YasinRezvani/assets/77124662/8d786ef5-89f6-46dc-9f87-269a4e44a160)
-
-
-<div align="center">
-  
-  <p>
-    <strong>Image Source:</strong> 
-    <a href="https://doi.org/10.1038/s41598-021-90428-8">
-      Ranjbarzadeh et al. (2021), <em>Scientific Reports</em>
-    </a>
-   
-  </p>
-</div>
-
 
 <a href="https://github.com/yasinrezvani">
   <img src="https://github.com/user-attachments/assets/4d72bd9d-cfe1-4fb1-9ac4-b8f965a1aaf2" width="100%" height="3px"/>
