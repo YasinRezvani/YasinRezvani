@@ -30,7 +30,7 @@
 </a>
 
 
-<h3 align="center">
+<!-- <h3 align="center">
 
 <a href="https://github.com/yasinrezvani">
 
@@ -46,7 +46,7 @@
   <img src="https://github.com/user-attachments/assets/4d72bd9d-cfe1-4fb1-9ac4-b8f965a1aaf2" width="100%" height="3px"/>
 </a>
 
-<h3/>
+<h3/> -->
 
 
 
