@@ -18,9 +18,18 @@
 <br>
 <br>
 <div align="center">
+
+<a href="https://github.com/yasinrezvani">
+   <img  src="https://github-readme-stats.vercel.app/api?username=yasinrezvani&show_icons=true&line_height=30&rank_icon=github&hide_border=true&show=prs_merged,prs_merged_percentage&theme=algolia" width="55%" alt="Yasin Rezvani's github stats"/>
+</a>
+
+
+<br>
+<br>
   
-  My interests include **computer vision**, **neural networks**, **machine learning**, **deep learning**, and the **human brain**.<br>
-  Being a fan of **money** and **social standing**, I'm also interested in finding a way to add more **value** to **artificial intelligence**.
+🧠 My interests include **Computer Vision**, **Neural Networks**, **Machine Learning**, **Deep Learning**, and the **Human Brain**.
+<br>
+💰 Being a fan of **money** and **social standing**, I'm also interested in finding ways to add more **value** to **Artificial Intelligence**.
 
 </div>
 
@@ -29,24 +38,6 @@
   <img src="https://github.com/user-attachments/assets/4d72bd9d-cfe1-4fb1-9ac4-b8f965a1aaf2" width="100%" height="3px"/>
 </a>
 
-
-<!-- <h3 align="center">
-
-<a href="https://github.com/yasinrezvani">
-
-   <img  src="https://github-readme-stats.vercel.app/api?username=yasinrezvani&show_icons=true&line_height=30&rank_icon=github&hide_border=true&show=prs_merged,prs_merged_percentage&theme=algolia" width="55%" alt="Yasin Rezvani's github stats"/>
-</a>
-
-<a href="https://github.com/yasinrezvani"> 
-
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yasinrezvani&show_icons=true&line_height=30&theme=algolia" width="35%"  alt="Yasin Rezvani's github stats most commit programming language"/>
-
-</a>
-<a href="https://github.com/yasinrezvani">
-  <img src="https://github.com/user-attachments/assets/4d72bd9d-cfe1-4fb1-9ac4-b8f965a1aaf2" width="100%" height="3px"/>
-</a>
-
-<h3/> -->
 
 
 
