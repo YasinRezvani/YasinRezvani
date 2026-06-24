@@ -24,7 +24,7 @@
 </a>
 
 
-<br>
+
 <br>
   
 🧠 My interests include **Computer Vision**, **Neural Networks**, **Machine Learning**, **Deep Learning**, and the **Human Brain**.
