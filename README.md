@@ -25,8 +25,8 @@
    <img  src="https://github-readme-stats.vercel.app/api?username=yasinrezvani&show_icons=true&line_height=30&rank_icon=github&hide_border=true&show=prs_merged,prs_merged_percentage&theme=algolia" width="55%" alt="Yasin Rezvani's github stats"/>
 </a> -->
 
-<a href="https://github.com/Maher-Elmair" target="_blank" style="margin-right:16px;">
-    <img src="https://gh-readme-profile.vercel.app/api?username=YasinRezvani&theme=tokyonight&bg_color=0d1117&title_color=34a89d&text_color=70a5fd&icon_color=bf91f3&username_color=bf91f3" alt="Yasin Rezvani's GitHub stats" height="" width="70%" />
+<a href="https://github.com/YasinRezvani" target="_blank" style="margin-right:16px;">
+    <img src="https://gh-readme-profile.vercel.app/api?username=YasinRezvani&theme=tokyonight&bg_color=0d1117&title_color=34a89d&text_color=70a5fd&icon_color=bf91f3&username_color=bf91f3" alt="Yasin Rezvani's GitHub stats" height="" width="80%" />
   </a>
 
 <a href="https://github.com/yasinrezvani">
