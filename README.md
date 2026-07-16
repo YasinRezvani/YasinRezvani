@@ -36,9 +36,9 @@
 <br>
 <br>
   
-🧠 My interests include **Computer Vision**, **Neural Networks**, **Machine Learning**, **Deep Learning**, and the **Human Brain**.
+🧠 Research interests: **Computer Vision**, **Medical Image Analysis**, **Vision Transformers**, and **Multi-Task Learning**.
 <br>
-💰 Being a fan of **money** and **social standing**, I'm also interested in finding ways to add more **value** to **Artificial Intelligence**.
+💡 I hope **AI technologies** continue to advance **healthcare** and improve **people's quality of life**.
 
 </div>
 
